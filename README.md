@@ -24,4 +24,4 @@ A simple Streamlit-based library management web app.
 - `library_core.py`: Core logic and classes
 - `library_app.py`: Streamlit UI
 - `test_library.py`: Tests for core logic
-- `data/`: Sample data (optional)
+- `data/`: Sample data 
